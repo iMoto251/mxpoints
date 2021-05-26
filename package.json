@@ -1,13 +1,22 @@
 {
   "name": "mxpoints",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get the points per position for motocross results",
   "main": "index.js",
+  "bin": "index.js",
+  "keywords": [
+    "mxpoints",
+    "motocross",
+    "motocross points"
+  ],
   "author": "Lane Burkes <laneburkes251@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/iMoto251/mxpoints.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iMoto251/mxpoints/issues"
   },
   "homepage": "https://github.com/iMoto251/mxpoints#readme"
 }

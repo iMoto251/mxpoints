@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 module.exports ={
     1: 25,
     2: 22,
