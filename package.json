@@ -1,0 +1,8 @@
+{
+  "name": "mxpoints",
+  "version": "1.0.0",
+  "description": "Get the points per position for motocross results",
+  "main": "index.js",
+  "author": "Mario Nebl <hello@mario-nebl.de>",
+  "license": "MIT"
+}
